@@ -25,7 +25,7 @@ SECRET_KEY = 'fgyg5(e0-wox(d@@(*6sr61q^gn2#18mzvb$dmmp^4j8f%v+o-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["planreactdjangocrud.herokuapp.com","localhost"]
 
 
 # Application definition
